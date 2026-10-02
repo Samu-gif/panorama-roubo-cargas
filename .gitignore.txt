@@ -1,0 +1,8 @@
+# Arquivos de backup do SQL Server e temporários do Windows/Excel
+*.bak
+*.tmp
+~$*
+.DS_Store
+
+# Descomente a linha abaixo se os dados brutos passarem de 100 MB
+# dados_brutos/*
